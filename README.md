@@ -1,6 +1,6 @@
 # Portfolio Project
 
-**🌐 Deployed Link**: [Visit My Portfolio](https://portfolio-998rlw8v9-aayush-kumars-projects-49548957.vercel.app/)
+**🌐 Deployed Link**: [Visit My Portfolio](https://portfolio-sigma-kohl-10.vercel.app/)
 
 ---
 
