@@ -16,7 +16,7 @@ export default function Contact() {
      console.log(form.current);
      const templateparams = {
         from_name: name + " " + email,
-        to_name: "31august2001@gmail.com",
+        to_name: "aayush0000.ak@gmail.com",
         feedback: message
         
      };
