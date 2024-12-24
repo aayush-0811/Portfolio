@@ -21,8 +21,8 @@ export default function Contact() {
         
      };
        emailjs
-       .send("service_xykz366", "template_vo1plxs", templateparams, {
-        publicKey: "WGBjEmL40eBkfMdso",
+       .send("service_yh5rbex", "template_46clnpi", templateparams, {
+        publicKey: "p-a5rSFFub2qYfdHB",
       })
        .then(function(response){
         console.log("SUCCESS!",response.status ,response.text);
